@@ -58,7 +58,7 @@ vistora/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/vistora.git
+git clone https://github.com/fahadnasir13/Vistora-Ai-IMAGE-Generator.git
 cd vistora
 ```
 
@@ -94,9 +94,9 @@ EMAIL_PASSWORD = "your_app_password"
 
 ---
 
-## 📸 Example Output
+## 📸  Output
 
-![Example](static/generated/example_vistora_output.png)
+(static/generated/example_vistora_output.png)
 
 ---
 
